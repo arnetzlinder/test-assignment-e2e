@@ -1,0 +1,22 @@
+{
+    "Search": [
+      {"Title": "Love actually",
+      "Year": "1997",
+      "imdbID":"tt0123654",
+      "Type": "Romance",
+      "Poster":"https://cv.arnetzlinder.com/images/Colorful-tshirts-on-black-background.jpg"},
+      {"Title": "Love actually not",
+      "Year": "1998",
+      "imdbID":"tt0123657",
+      "Type": "Drama",
+      "Poster":" https://cv.arnetzlinder.com/images/susanne_arnetz_linder.jpg"},
+      {"Title": "Love actually really",
+      "Year": "2000",
+      "imdbID":"tt0123658",
+      "Type": "Bromance",
+      "Poster":"https://cv.arnetzlinder.com/images/gatis-marcinkevics-a5uptAdUmjE-unsplash.jpg"}
+    ],
+    "totalResults":"30",
+    "Response": "True"
+}
+   

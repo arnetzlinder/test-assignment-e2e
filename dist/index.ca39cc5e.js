@@ -647,6 +647,7 @@ var __awaiter = undefined && undefined.__awaiter || function(thisArg, _arguments
 };
 const getData = (searchText)=>__awaiter(void 0, void 0, void 0, function*() {
         return (0, _axiosDefault.default).get("http://omdbapi.com/?apikey=416ed51a&s=" + searchText).then((data)=>{
+            console.log(data.data.Search);
             return data.data.Search;
         }).catch(()=>{
             return [];
